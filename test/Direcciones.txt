@@ -1,0 +1,6 @@
+209,Cerro atardecer 4567,Antofagasta
+210,Marina Plaza 456, Calama
+211,Chabunco 10047, Santiago
+212,Avenida Oscar Bonilla 7834, La Serena
+213,Cerro dominador 231, Taltal
+214,Madrigueraz lindas 90, Tortel

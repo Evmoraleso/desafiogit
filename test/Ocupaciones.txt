@@ -1,0 +1,6 @@
+209,Capataz,3400000
+210,Ingeniero IT,2900000
+211,Contador Auditor,5000000
+212,Pesacador Artesanal,2000000
+213,Tens,2500000
+214,Conductor, 3500000
